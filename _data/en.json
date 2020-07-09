@@ -8,7 +8,7 @@
   "auth-ldap": "Log in with LDAP",
   "auth-email": "Log in with email and password",
   "auth-github": "Log in with GitHub",
-  "auth-list": "Paying members",
+  "auth-list": "Paying member",
   "index-purge": "Failed to purge indexes.",
   "elastic-sniff": "Enable cluster sniffing"
   }
