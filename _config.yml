@@ -1,3 +1,5 @@
 name: Gautam Kumar
 markdown: kramdown
 baseurl: /automating-documentation
+
+theme: jekyll-theme-cayman
